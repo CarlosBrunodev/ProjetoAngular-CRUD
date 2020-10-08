@@ -1,0 +1,48 @@
+.header{
+    padding-left: 0px;
+    display: flex;
+    align-items: center;
+    /*background-color: #00705d;*/
+    background-color: #f7f7f7;
+}
+
+.header a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.header .logo{
+    max-height: 180px ;
+
+}
+
+.header .title-group{
+    color: #000000;
+    padding-left: 15px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.header .title-group i{
+    padding-left:900px;
+    padding-right: 5px;
+}
+
+.header .actions {
+    display: flex;
+    color:#000000;
+}
+
+.header .actions i{
+    padding-right: 15px;
+    color:#000000;
+   
+}
+.header i {
+    color:#0e12a5;
+}
+.login{
+    padding-left: 15px;
+}
